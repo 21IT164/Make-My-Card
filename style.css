@@ -1,0 +1,153 @@
+
+.logo{
+  height: 50px;
+  width: 50px;
+}
+
+.logo_name{
+  font-weight: bold;
+  font-family: cursive;
+}
+
+.mid{
+  height: 600px;
+  border-color: #454545;
+  border-style: solid;
+  border-radius: 50px 1px;
+}
+
+.image-section{
+    height: 700px;
+    background-color: #FDF2E9;
+}
+
+.image-section:hover{
+  background-color: #FAE5D3 ;
+}
+
+.image-section-1{
+     position: relative;
+     background-color: #F5CBA7;
+     left: 5%;
+     top: 60px;
+     height: 200px;
+     width: 200px;
+     z-index: 1;
+     border-radius: 1px 30px 30px 1px;
+     border-style: solid;
+     border-color: black;
+     background-image: url('images/background-image.jpg');
+}
+
+.image-section-2{
+  padding: 2% 15%;
+  position: relative;
+  bottom: 200px;
+}
+
+.image-section-3{
+  position: relative;
+  background-color: #F5CBA7;
+  bottom: 460px;
+  left: 81%;
+  height: 200px;
+  width: 200px;
+  z-index: 1;
+  border-radius: 30px 1px 1px 30px;
+  border-style: solid;
+  border-color: black;
+  background-image: url('images/background-image.jpg');
+}
+
+.text-1{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 46px;
+  padding-top: 15%;
+}
+.text-3{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 50px;
+  padding-top: 10%;
+}
+
+.pro-version{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.contact-us{
+  /* background-color: black; */
+  background-image: url('images/contact-us-background.jpg');
+}
+
+.inner-contact-us{
+  padding: 7% 15%;
+}
+
+.content-contact-us{
+  padding: 1% 5%;
+  color: #C0C0C0;
+  text-align: center;
+  font-family: cursive;
+}
+
+.text-contact-us:hover{
+   color: white;
+}
+
+.icons{
+   height: 50px;
+    width: 50px;
+   background-color:#C0C0C0;
+}
+
+.icons-1{
+  padding-left: 30px;
+}
+
+.icons:hover{
+   background-color:white;
+}
+
+.found-img{
+    border-style: solid;
+    border-radius: 1000px;
+    height: 200px;
+    width: 200px;
+    margin-left: 300px;
+}
+
+.kirtan{
+  background-color: #FAE5D3;
+  text-align: center;
+  font-size: 50px;
+  width: 500px;
+  border-radius: 100px;
+  border-style: solid;
+}
+
+.kirtan-name{
+  padding-left: 100px;
+}
+
+.about-table{
+  padding-top: 10%;
+}
+
+.text-about{
+  background-color: #FBEEE6;
+  padding-right: 50px;
+  padding-left: 10%;
+}
+
+.text-about-mid{
+  background-color: #FBEEE6;
+  padding-left: 50px;
+}
+
+.images-mids{
+  height: 200px;
+  width: 500px;
+}
